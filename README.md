@@ -1,2 +1,5 @@
 # dio-desafio-git-github-entrega
-Criar repositorio o primeiro repositorio
+Criando repositorio o primeiro repositorio no GitHub.
+
+##Links Úteis
+Me sigam no [instagram](https://www.instagram.com/lunasemfronteiras/) 💟
