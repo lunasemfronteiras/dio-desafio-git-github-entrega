@@ -1,4 +1,4 @@
-# dio-desafio-git-github-entrega
+# Desafio Dio Git/GitHub
 Criandoo repositório do desafio no GitHub.
 
 ## Links Úteis
